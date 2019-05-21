@@ -1,0 +1,14 @@
+C:\Users\arubtsov\Source\Repos\NewRepo\StudentParserText2\Парсер2\bin\Debug\Парсер2.exe.config
+C:\Users\arubtsov\Source\Repos\NewRepo\StudentParserText2\Парсер2\bin\Debug\Парсер2.exe
+C:\Users\arubtsov\Source\Repos\NewRepo\StudentParserText2\Парсер2\bin\Debug\Парсер2.pdb
+C:\Users\arubtsov\Source\Repos\NewRepo\StudentParserText2\Парсер2\obj\Debug\Парсер2.csprojResolveAssemblyReference.cache
+C:\Users\arubtsov\Source\Repos\NewRepo\StudentParserText2\Парсер2\obj\Debug\Парсер2.csproj.CoreCompileInputs.cache
+C:\Users\arubtsov\Source\Repos\NewRepo\StudentParserText2\Парсер2\obj\Debug\Парсер2.exe
+C:\Users\arubtsov\Source\Repos\NewRepo\StudentParserText2\Парсер2\obj\Debug\Парсер2.pdb
+C:\Users\student01\source\repos\Dionis01\StudentParserText\Парсер2\bin\Debug\Парсер2.exe.config
+C:\Users\student01\source\repos\Dionis01\StudentParserText\Парсер2\bin\Debug\Парсер2.exe
+C:\Users\student01\source\repos\Dionis01\StudentParserText\Парсер2\bin\Debug\Парсер2.pdb
+C:\Users\student01\source\repos\Dionis01\StudentParserText\Парсер2\obj\Debug\Парсер2.csprojAssemblyReference.cache
+C:\Users\student01\source\repos\Dionis01\StudentParserText\Парсер2\obj\Debug\Парсер2.csproj.CoreCompileInputs.cache
+C:\Users\student01\source\repos\Dionis01\StudentParserText\Парсер2\obj\Debug\Парсер2.exe
+C:\Users\student01\source\repos\Dionis01\StudentParserText\Парсер2\obj\Debug\Парсер2.pdb
