@@ -39,7 +39,7 @@ namespace StudentParser
             String Cost = "";
 
 
-
+            // Инициализация соединения MS SQL БД MobileBase
             System.Data.SqlClient.SqlConnection sqlConnection1 =
            new System.Data.SqlClient.SqlConnection("Data Source=b-sql-test;Initial Catalog=MobileBase;Integrated Security=True;Connect Timeout=15;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False");
 
